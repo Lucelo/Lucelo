@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Lucelo
 - 👀 I’m interested in videogame
-- 🌱 I’m currently learning videogames
+- 🌱 I’m currently learning programming
 - 📫 How to reach me in Discord name Lucelo
-- 😄 Pronouns: He
 - ⚡ Fun fact: i love my mom and dad
 
 <!---
