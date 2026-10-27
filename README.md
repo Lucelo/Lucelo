@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Lucelo
 - 👀 I’m interested in videogame
 - 🌱 I’m currently learning programming
-- 📫 How to reach me in Discord name Lucelo
-- ⚡ Fun fact: i love my mom and dad
+- 📫 How to reach me in Discord name Runicario
+- ⚡ Fun fact: i love my parent
 
 <!---
 Lucelo/Lucelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
